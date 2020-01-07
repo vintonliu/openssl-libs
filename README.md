@@ -23,4 +23,6 @@ openssl-libs
             |-- include (openssl 头文件)
             |-- Debug (带调试信息版本)
             |-- Release (生产版本)
+    |-- ios (ios平台 fat 静态库，支持 armv7,arm64,i386,x64_86)
+
 ```
