@@ -1,0 +1,9 @@
+prefix=/Users/51talk/Desktop/Vinton/work/github/openssl/build/android/openssl/Release/install/arm64-v8a
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Version: 1.1.1d
+Requires: libssl libcrypto
